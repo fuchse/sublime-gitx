@@ -1,0 +1,16 @@
+{
+	"schema_version": "2.0",
+	"packages": [
+		{
+			"name": "Open Gitx",
+			"previous_names": ["Sublime Gitx"],
+			"details": "https://github.com/fuchse",
+			"description": "Provides a command for opening Gitx in the current directory",
+			"author": "Ethan Fuchs",
+			"labels": ["gitx", "integration"],
+			"last_modified": "",
+			"releases": [
+			]
+		}
+	]
+}

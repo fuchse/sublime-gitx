@@ -1,0 +1,18 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "T",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Gitx",
+                "children":
+                [
+                    { "command": "open_gitx", "caption": "Open Gitx here" }
+                ]
+            }
+
+        ]
+    }
+]
